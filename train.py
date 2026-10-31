@@ -4,7 +4,7 @@
 from roboflow import Roboflow
 from ultralytics import YOLO
 
-rf = Roboflow(api_key="YOUR_API_KEY")  # put your own key here, never share it
+rf = Roboflow(api_key="hMvrwQ8OhfDwLXrpw6pE")  # put your own key here, never share it
 project = rf.workspace("roboflow-universe-projects").project("license-plate-recognition-rxg4e")
 dataset = project.version(13).download("yolov8")
 
