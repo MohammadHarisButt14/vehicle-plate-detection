@@ -34,4 +34,6 @@ streamlit run app.py
 ## Links
 - Live app: https://vehicle-plate-detection-vzv67r7uofytl3lxgwzjky.streamlit.app/
 - Report: https://docs.google.com/document/d/1yo1TB3qumC8pAeSbmO60kofg9vjZUVRAIGlXGNISMsQ/edit?tab
-- Presentation video: ADD LATER
+- Presentation slides: https://docs.google.com/presentation/d/1E_LaJ727Qt4MBeSRVxhvCKc8rD4QxU13/edit?usp=drive_link&ouid=102731761850356744317&rtpof=true&sd=true
+- Presentation Video : Later
+
