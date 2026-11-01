@@ -64,8 +64,25 @@ with st.sidebar:
     st.write("**OCR:** RapidOCR")
     st.write("**Dataset:** Roboflow License Plate Recognition")
     st.write("**Framework:** Streamlit")
-    st.link_button("🔗 GitHub Repository",
-                   "https://github.com/MohammadHarisButt14/vehicle-plate-detection")
+    st.subheader("🔗 Project Links")
+    st.link_button("💻 GitHub Repository",
+                   "https://github.com/MohammadHarisButt14/vehicle-plate-detection",
+                   use_container_width=True)
+    st.link_button("📄 Project Report",
+                   "https://docs.google.com/document/d/1yo1TB3qumC8pAeSbmO60kofg9vjZUVRAIGlXGNISMsQ/edit",
+                   use_container_width=True)
+    st.link_button("📊 Presentation",
+                   "https://docs.google.com/presentation/d/1E_LaJ727Qt4MBeSRVxhvCKc8rD4QxU13/edit",
+                   use_container_width=True)
+    st.link_button("🎥 YouTube Video",
+                   "https://youtu.be/inc0ummJjtc",
+                   use_container_width=True)
+    st.link_button("💼 LinkedIn Post",
+                   "https://lnkd.in/p/dUh9JeE9",
+                   use_container_width=True)
+    st.link_button("🗂️ Dataset (Roboflow)",
+                   "https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e",
+                   use_container_width=True)
     st.divider()
     st.caption("Deep Learning Semester Project")
 
